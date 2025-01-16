@@ -1,0 +1,134 @@
+{
+	"employees": [
+		{
+			"id": 101,
+			"name": "John Doe",
+			"designation": "Software Engineer",
+			"department": "Development",
+			"salaryDetails": {
+				"basic": 60000,
+				"bonus": 5000,
+				"deductions": 3000,
+				"netSalary": 62000,
+				"currency": "USD"
+			}
+		},
+		{
+			"id": 102,
+			"name": "Jane Smith",
+			"designation": "Senior Software Engineer",
+			"department": "Development",
+			"salaryDetails": {
+				"basic": 75000,
+				"bonus": 8000,
+				"deductions": 4000,
+				"netSalary": 79000,
+				"currency": "USD"
+			}
+		},
+		{
+			"id": 103,
+			"name": "Alice Johnson",
+			"designation": "QA Engineer",
+			"department": "Quality Assurance",
+			"salaryDetails": {
+				"basic": 50000,
+				"bonus": 3000,
+				"deductions": 2000,
+				"netSalary": 51000,
+				"currency": "USD"
+			}
+		},
+		{
+			"id": 104,
+			"name": "Bob Brown",
+			"designation": "DevOps Engineer",
+			"department": "Operations",
+			"salaryDetails": {
+				"basic": 65000,
+				"bonus": 7000,
+				"deductions": 3500,
+				"netSalary": 68500,
+				"currency": "USD"
+			}
+		},
+		{
+			"id": 105,
+			"name": "Charlie Green",
+			"designation": "Data Analyst",
+			"department": "Data Science",
+			"salaryDetails": {
+				"basic": 55000,
+				"bonus": 4000,
+				"deductions": 2500,
+				"netSalary": 56500,
+				"currency": "USD"
+			}
+		},
+		{
+			"id": 106,
+			"name": "Diana White",
+			"designation": "Project Manager",
+			"department": "Management",
+			"salaryDetails": {
+				"basic": 80000,
+				"bonus": 10000,
+				"deductions": 5000,
+				"netSalary": 85000,
+				"currency": "USD"
+			}
+		},
+		{
+			"id": 107,
+			"name": "Ethan Black",
+			"designation": "Full Stack Developer",
+			"department": "Development",
+			"salaryDetails": {
+				"basic": 70000,
+				"bonus": 6000,
+				"deductions": 4000,
+				"netSalary": 72000,
+				"currency": "USD"
+			}
+		},
+		{
+			"id": 108,
+			"name": "Fiona Blue",
+			"designation": "UI/UX Designer",
+			"department": "Design",
+			"salaryDetails": {
+				"basic": 50000,
+				"bonus": 3500,
+				"deductions": 2000,
+				"netSalary": 51500,
+				"currency": "USD"
+			}
+		},
+		{
+			"id": 109,
+			"name": "George Gray",
+			"designation": "Cloud Engineer",
+			"department": "Cloud Services",
+			"salaryDetails": {
+				"basic": 75000,
+				"bonus": 9000,
+				"deductions": 4500,
+				"netSalary": 79500,
+				"currency": "USD"
+			}
+		},
+		{
+			"id": 110,
+			"name": "Hannah Red",
+			"designation": "Business Analyst",
+			"department": "Business Analysis",
+			"salaryDetails": {
+				"basic": 60000,
+				"bonus": 5000,
+				"deductions": 3000,
+				"netSalary": 62000,
+				"currency": "USD"
+			}
+		}
+	]
+}
